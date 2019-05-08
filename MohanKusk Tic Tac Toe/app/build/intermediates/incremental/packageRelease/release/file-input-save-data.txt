@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 25 11:49:10 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\MOHAN\\AndroidStudioProjects\\MohanKusk Tic Tac Toe\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

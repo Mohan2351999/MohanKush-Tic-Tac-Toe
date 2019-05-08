@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\80e2434f0f3e19d0fb7671adfb31cc44\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\58859184c0813cec1c161780cac127d4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a59b4393cf0b8b98efb8747cb5a39833\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.1.0.aar\7ea32c3e8463c31396f0031c4ef1d6a7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.1.0.aar\7e470052374783055fdc41f1af40f037\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b466ef88f3ca4227346e4c68d0ea0f54\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9aeaa4fae75a87e740e7942920a6c7f3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e32f6086b70f5129c84f785e31ab6b4a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\781899dfc0f07de99053b0defc2d3a7d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\70c5b53896a3133e30d94e19a53198ad\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c9a49ebf23797fded0c6ec14cfc7bc76\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MOHAN\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\64ded2c111f86ad67f00eb043f1c5e6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\MOHAN\AndroidStudioProjects\MohanKusk Tic Tac Toe\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+
+</items>

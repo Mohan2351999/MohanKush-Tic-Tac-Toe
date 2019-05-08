@@ -1,0 +1,4 @@
+#Wed Jul 25 11:26:06 IST 2018
+base.0=C\:\\Users\\MOHAN\\AndroidStudioProjects\\MohanKusk Tic Tac Toe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\40
+path.0=classes.dex
+renamed.0=classes.dex
